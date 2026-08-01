@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,5 +51,6 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [1208-get-equal-substrings-within-budget](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
