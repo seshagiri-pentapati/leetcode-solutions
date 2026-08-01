@@ -28,6 +28,7 @@
 | ------- |
 | [0097-interleaving-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +54,5 @@
 | [0209-minimum-size-subarray-sum](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [1208-get-equal-substrings-within-budget](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
