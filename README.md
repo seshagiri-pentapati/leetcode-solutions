@@ -40,6 +40,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0274-h-index](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0274-h-index) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0798-smallest-rotation-with-highest-score) |
 ## Binary Search
 |  |
@@ -74,4 +75,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
