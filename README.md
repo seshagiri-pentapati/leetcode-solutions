@@ -26,12 +26,14 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0097-interleaving-string) |
 ## Array
 |  |
@@ -64,4 +66,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
