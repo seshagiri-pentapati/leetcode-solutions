@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Tree
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Matrix
 |  |
 | ------- |
