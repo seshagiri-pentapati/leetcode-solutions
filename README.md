@@ -34,10 +34,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0097-interleaving-string) |
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0209-minimum-size-subarray-sum](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0274-h-index) |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0274-h-index) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
