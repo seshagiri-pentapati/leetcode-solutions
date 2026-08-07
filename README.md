@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0450-delete-node-in-a-bst](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0450-delete-node-in-a-bst](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## String
 |  |
 | ------- |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0055-jump-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
