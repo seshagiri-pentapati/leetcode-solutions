@@ -31,6 +31,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0299-bulls-and-cows](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [1208-get-equal-substrings-within-budget](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Dynamic Programming
@@ -69,6 +70,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0299-bulls-and-cows](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0274-h-index) |
+| [0299-bulls-and-cows](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 ## Greedy
 |  |
 | ------- |
