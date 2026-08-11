@@ -33,6 +33,7 @@
 | [0097-interleaving-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0299-bulls-and-cows](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Dynamic Programming
