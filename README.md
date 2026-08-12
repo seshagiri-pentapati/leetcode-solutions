@@ -8,6 +8,7 @@
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0445-add-two-numbers-ii](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 ## Tree
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
