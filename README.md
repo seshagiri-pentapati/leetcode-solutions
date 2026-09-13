@@ -32,6 +32,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0168-excel-sheet-column-title](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -109,6 +110,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/seshagiri-pentapati/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 ## Simulation
